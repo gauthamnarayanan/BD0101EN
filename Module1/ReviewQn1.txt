@@ -1,0 +1,6 @@
+1 :According to the survey mentioned in this lesson, what is the main source of Big Data for many companies?
+  ANS : Transactions
+2: Which of the following is NOT one of the phases of Big Data adoption?
+  ANS: Extract
+3:Once you have access to Big Data sources, which of the following are examples of analytic capabilities you can apply on them? Choose all that are applicable.
+  ANS: 
