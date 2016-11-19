@@ -1,0 +1,37 @@
+1: Which of these are NOT characteristics of Big Data?
+    Velocity , Variety  ,Variance , Volume , None of the options is correct
+    ANS : Variance
+2: True or false? The value of the insights from Big Data are intended mostly for executive management of an organization:
+  ANS : False
+3: What term do we use for managing and trusting sources of data?
+   Information Integration,  Governance , Data Security , MDM  ,None of the options is correct
+   ANS:Governance
+4: True or false? To maximize the benefits of Big Data analytics initiatives, organizations should select the right analytics tools and involve people who bring needed analytical skills to a project.
+   ANS: True
+5: Recommended best practices for managing big data analytics programs include:
+          Ensuring all data is moved to a Hadoop system for processing
+          Letting go entirely of “old ideas,” such as SQL, related to data management
+          Focusing on business goals of the organization and how to use Big Data analytics to meet them          
+          Adopting data analysis tools based on a laundry list of their capabilities 
+          All of the options are correct
+   ANS:Focusing on business goals of the organization and how to use Big Data analytics to meet them
+6: Big Data is best processed in a platform that:
+               Uses only open source software developed by the Apache Foundation
+               Is built specifically to handle MapReduce processing
+               Integrates enterprise data into one ecosystem that handles both static and streaming data as well as analytical components      
+               Combines the various silos of classic data into one integrated system
+               None of the options is correct
+    ANS :Integrates enterprise data into one ecosystem that handles both static and streaming data as well as analytical components               
+7: How many Gigabytes are in a Petabyte?
+    ANS : One million
+8: True or false? The classic data warehouse is best replaced by storage and process using the Hadoop ecosystem.
+    ANS : False
+9: Which of the following is NOT one of the Streaming-Data Processing Systems discussed in this course:
+     Apache Spark 
+     Storm
+     Spring SD
+     IBM Streams 
+     None of the options is correct
+   ANS :  Spring SD
+    
+               
