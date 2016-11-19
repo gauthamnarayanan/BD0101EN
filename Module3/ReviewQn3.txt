@@ -1,0 +1,6 @@
+1: Which of the following is a key aspect of a Big Data platform?
+  ANS: All of the options are correct
+2: True or false? The IBM Big Data Platform approach is unique in the industry in the way that it integrates the processing of streaming and static data with data warehousing and an analytics and reporting zone
+  ANS: True
+3: True or false? In a big data environment, organizations can improve the level of trust users have in information by ensuring data consistency and establishing safeguards over information. When information is trusted, businesses can optimize outcomes.
+  ANS: True
