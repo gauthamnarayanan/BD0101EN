@@ -1,0 +1,7 @@
+1:Which language can be used to perform text analytics?
+  ANS: AQL
+2: Which of the following statements is correct? 
+    Streams ingests and continuosly analyzes data, Streams can help detect system security breaches, Streams consists of a collection of operators, each operator performs a given operation, Streams is ideal for RTAP,All of the options are correct All of the options are correct - correct
+  ANS:  All of the options are correct - correct
+3: With the advent of new technologies such as Hadoop and Spark, SQL will become obsolete. True or false?
+  ANS: False
