@@ -1,0 +1,6 @@
+1: Which is NOT one of the five Big Data Use Cases mentioned in the course:
+  ANS :  Social Data Synthesis 
+2: There are a number of drivers for an Operations Analysis use case. In its raw format, businesses are often unable to leverage machine data, because:
+  ANS: All of the options are correct
+3: Which of the five high-value big data use cases would this scenario apply to: 'A company would like to use its internal customer database information and correlate it with Twitter account information'
+  ANS: Enhanced 360 degree view of a customer
